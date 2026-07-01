@@ -1,6 +1,6 @@
 # DNR DJ Booth System
 
-# PLEASE NOTE DNR DEVELOPMENTS NOR NR DEVELOPMENTS ALLOWS REDISTRIBNUTION OF ANY CODE INSIDE THIS RESOURCE HOWEVER YOU ARE FREE TO MODIFY TO YOUR OWNN LIKING.
+# PLEASE NOTE DNR DEVELOPMENTS NOR NR DEVELOPMENTS ALLOW REDISTRIBNUTION OF ANY CODE INSIDE THIS RESOURCE HOWEVER YOU ARE FREE TO MODIFY TO YOUR OWNN LIKING.
 
 A modern, fully configurable DJ Booth system for FiveM built with **ox_lib** and **XSound**. Players can stream music directly from supported URLs through an immersive in-game DJ interface with synchronized playback for everyone nearby.
 
