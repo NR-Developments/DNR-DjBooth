@@ -72,3 +72,5 @@ Booths can be public or restricted to specific jobs. Configurable admin groups m
 ## Credits
 
 **Author:** NightRider - DNR-Developments / NR-Developments
+**Special Thanks** To Xogy for creating xsound which makes this djbooth script possible.
+**Link to Xogy/xsound Resource.** https://github.com/Xogy/xsound
